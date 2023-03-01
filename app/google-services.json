@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295689832932",
+    "firebase_url": "https://demojson-to-android-default-rtdb.firebaseio.com",
+    "project_id": "demojson-to-android",
+    "storage_bucket": "demojson-to-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295689832932:android:da2a04fb59c98eb6705ff1",
+        "android_client_info": {
+          "package_name": "learn.atharv.jsonretrivalfromfirebaserealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295689832932-dauoo1ptvlcelbp9d05aa9i2gnaijnah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlYyX9C9h0fd3ZiYlBBZ9-SqtcWoHKZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295689832932-dauoo1ptvlcelbp9d05aa9i2gnaijnah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
